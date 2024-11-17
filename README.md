@@ -47,8 +47,6 @@ Contributions to improve the project are welcome. If you'd like to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## **License**
-This project is for educational purposes. If you wish to use or modify it for other purposes, please follow the applicable license terms.
 
 ## **Contact**
 If you have any questions or issues regarding the project, feel free to open an issue in the repository or contact the project owner directly.
